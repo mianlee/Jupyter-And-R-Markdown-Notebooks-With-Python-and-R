@@ -3,4 +3,4 @@ When working on data science problems, you might want to set up an interactive e
 In other cases, you’ll just want to communicate about the workflow and the results that you have gathered for the analysis of your data science problem. For a transparent and reproducible report, a notebook can also come in handy.
 
 
-[Jupyter And R Markdown: Notebooks With Python and R](Jupyter And R Markdown: Notebooks With R)
+[Jupyter And R Markdown: Notebooks With Python and R](https://www.datacamp.com/community/blog/jupyter-notebook-r?utm_source=adwords_ppc&utm_campaignid=1565261270&utm_adgroupid=67750485268&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=1t1&utm_creative=295208661496&utm_targetid=aud-748597547652:dsa-473406574235&utm_loc_interest_ms=&utm_loc_physical_ms=9005431&gclid=CjwKCAjwyqTqBRAyEiwA8K_4O0cgxKFpSEzSVE7JOhRO_CvTmGYcOd5PizAlSPGsTIeolcNc0Dh_hhoCjVYQAvD_BwER)
