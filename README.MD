@@ -19,4 +19,6 @@ Jupyter Notebook strongly recommend installing ```Python``` and ```Jupyter Noteb
 
 If you install the ```Anaconda```, you have installed ```Jupyter Notebook```! To run the notebook, run the following command at the Terminal (Mac/Linux) or Command Prompt (Windows):
 
-```jupyter notebook```
+```
+jupyter notebook
+```
