@@ -15,4 +15,4 @@ In other cases, you’ll just want to communicate about the workflow and the res
 
 Since I have ```Anaconda```, *which already includes Python, the Jupyter Notebook, and other commonly used packages for scientific computing and data science*, installed on my Mac-computer,  I am ready to use the ```Jupyter Notebook```.
 
-Jupyter Notebook strongly recommend installing ```Python``` and ```Jupyter Notebook``` using the [Anaconda Distribution](https://www.anaconda.com/), you can download and instrall it from [here](https://www.anaconda.com/distribution/).
+Jupyter Notebook strongly recommend installing ```Python``` and ```Jupyter Notebook``` using the [Anaconda Distribution](https://www.anaconda.com/), you can download and instrall it from, [here](https://www.anaconda.com/distribution/).
