@@ -22,3 +22,16 @@ If you install the ```Anaconda```, you have installed ```Jupyter Notebook```! To
 ```
 jupyter notebook
 ```
+
+### Some useful shortcut:
+
+```
+shift + enter run cell, select below.
+ctrl + enter run cell.
+option + enter run cell, insert below.
+A insert cell above.
+b/B insert cell below.
+C copy cell.
+V paste cell.
+D , D delete selected cell.
+```
